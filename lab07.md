@@ -19,31 +19,31 @@
 ### 任务1
 
 
-1. 打开网页输入程序的代码
+* 打开网页输入程序的代码
 ![](images/lab07/ex1pic1.png)
-2. 点击step一步步执行程序
+* 点击step一步步执行程序
 ![](images/lab07/ex1pic2.png)
-3. 最终程序结束运行时的状况
+* 最终程序结束运行时的状况
 ![](images/lab07/ex1pic3.png)
-4. 点击“Binary”，查看代码情况
+* 点击“Binary”，查看代码情况
 ![](images/lab07/ex1pic4.png)
 ### 任务2
 
 
-1. 打开网页输入程序的代码
+* 打开网页输入程序的代码
 ![](images/lab07/ex2pic1.png)
-2. 给x赋予1的值，执行程序
+* 给x赋予1的值，执行程序
 ![](images/lab07/ex2pic2.png)
 运行结果
 ![](images/lab07/ex2pic3.png)
 给x赋予-1的值，执行程序
 ![](images/lab07/ex2pic4.png)
 最后PIPPIN会因溢出而报错
-3. 修改后的程序
+* 修改后的程序
 ![](images/lab07/ex2pic5.png)
 最后一项为  16   HLT  
 
-4. 运行结果
+* 运行结果
 ![](images/lab07/ex2pic6.png)
 ## 3.实验结果
 ### 任务1:简单程序
